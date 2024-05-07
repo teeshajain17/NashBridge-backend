@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NashBridge", "NashBridge\NashBridge.csproj", "{555444D5-339F-45BF-89C7-E6A1D9398E02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{555444D5-339F-45BF-89C7-E6A1D9398E02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{555444D5-339F-45BF-89C7-E6A1D9398E02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{555444D5-339F-45BF-89C7-E6A1D9398E02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{555444D5-339F-45BF-89C7-E6A1D9398E02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64024DC7-5F78-4334-AB27-49A2747B6DA0}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+@NashBridge_HostAddress = http://localhost:5027
+
+GET {{NashBridge_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
